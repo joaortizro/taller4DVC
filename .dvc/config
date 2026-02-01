@@ -1,0 +1,6 @@
+[core]
+    remote = aws-remote
+['remote "fuentelocal"']
+    url = C:\tmp\dvcstore\
+['remote "aws-remote"']
+    url = s3://jonas-dvcstore
